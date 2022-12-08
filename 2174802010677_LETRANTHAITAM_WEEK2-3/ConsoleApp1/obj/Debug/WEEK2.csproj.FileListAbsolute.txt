@@ -1,0 +1,14 @@
+C:\Users\letra\source\repos\buoi2\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\letra\source\repos\buoi2\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\letra\source\repos\buoi2\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\letra\source\repos\buoi2\ConsoleApp1\obj\Debug\WEEK2.csproj.AssemblyReference.cache
+C:\Users\letra\source\repos\buoi2\ConsoleApp1\obj\Debug\WEEK2.csproj.CoreCompileInputs.cache
+C:\Users\letra\source\repos\buoi2\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\letra\source\repos\buoi2\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\letra\source\repos\2174802010677_LETRANTHAITAM_WEEK2-3\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\letra\source\repos\2174802010677_LETRANTHAITAM_WEEK2-3\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\letra\source\repos\2174802010677_LETRANTHAITAM_WEEK2-3\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\letra\source\repos\2174802010677_LETRANTHAITAM_WEEK2-3\ConsoleApp1\obj\Debug\WEEK2.csproj.AssemblyReference.cache
+C:\Users\letra\source\repos\2174802010677_LETRANTHAITAM_WEEK2-3\ConsoleApp1\obj\Debug\WEEK2.csproj.CoreCompileInputs.cache
+C:\Users\letra\source\repos\2174802010677_LETRANTHAITAM_WEEK2-3\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\letra\source\repos\2174802010677_LETRANTHAITAM_WEEK2-3\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

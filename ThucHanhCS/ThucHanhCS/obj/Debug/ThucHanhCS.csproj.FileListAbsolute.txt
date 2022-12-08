@@ -1,0 +1,7 @@
+C:\Users\letra\source\repos\ThucHanhCS\ThucHanhCS\bin\Debug\ThucHanhCS.exe.config
+C:\Users\letra\source\repos\ThucHanhCS\ThucHanhCS\bin\Debug\ThucHanhCS.exe
+C:\Users\letra\source\repos\ThucHanhCS\ThucHanhCS\bin\Debug\ThucHanhCS.pdb
+C:\Users\letra\source\repos\ThucHanhCS\ThucHanhCS\obj\Debug\ThucHanhCS.csproj.AssemblyReference.cache
+C:\Users\letra\source\repos\ThucHanhCS\ThucHanhCS\obj\Debug\ThucHanhCS.csproj.CoreCompileInputs.cache
+C:\Users\letra\source\repos\ThucHanhCS\ThucHanhCS\obj\Debug\ThucHanhCS.exe
+C:\Users\letra\source\repos\ThucHanhCS\ThucHanhCS\obj\Debug\ThucHanhCS.pdb

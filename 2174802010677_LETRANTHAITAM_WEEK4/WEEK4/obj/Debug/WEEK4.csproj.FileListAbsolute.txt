@@ -1,0 +1,7 @@
+C:\Users\letra\source\repos\WEEK4\WEEK4\bin\Debug\WEEK4.exe.config
+C:\Users\letra\source\repos\WEEK4\WEEK4\bin\Debug\WEEK4.exe
+C:\Users\letra\source\repos\WEEK4\WEEK4\bin\Debug\WEEK4.pdb
+C:\Users\letra\source\repos\WEEK4\WEEK4\obj\Debug\WEEK4.csproj.AssemblyReference.cache
+C:\Users\letra\source\repos\WEEK4\WEEK4\obj\Debug\WEEK4.csproj.CoreCompileInputs.cache
+C:\Users\letra\source\repos\WEEK4\WEEK4\obj\Debug\WEEK4.exe
+C:\Users\letra\source\repos\WEEK4\WEEK4\obj\Debug\WEEK4.pdb

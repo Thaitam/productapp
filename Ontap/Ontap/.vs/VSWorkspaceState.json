@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Core",
+    "\\Core\\Context",
+    "\\Core\\Models",
+    "\\Core\\Services",
+    "\\UI"
+  ],
+  "SelectedNode": "\\UI\\FrmMain.cs",
+  "PreviewInSolutionExplorer": false
+}
